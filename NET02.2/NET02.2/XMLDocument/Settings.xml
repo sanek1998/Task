@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <login name="alex">
+    <window title="main">
+      <top>10</top>
+      <left>20</left>
+      <width>400</width>
+      <height>200</height>
+    </window>
+    <window title="help">
+      <left>30</left>
+      <top>20</top>
+      <height>100</height>
+    </window>
+  </login>
+
+  <login name="sasha">
+    <window title="main">
+      <top>20</top>
+      <left>40</left>
+      <width>600</width>
+      <height>700</height>
+    </window>
+    <window title="help">
+      <left>40</left>
+      <top>50</top>
+      <height>150</height>
+    </window>
+  </login>
+
+  <login name="vitia">
+    <window title="main">
+      <top>45</top>
+      <width>450</width>
+      <height>650</height>
+    </window>
+    <window title="help">
+      <left>35</left>
+      <top>45</top>
+      <height>190</height>
+    </window>
+  </login>
+
+  <login name="denis">
+    <window title="main">
+      <top>20</top>
+      <left>40</left>
+      <height>700</height>
+    </window>
+    <window title="help">
+      <left>35</left>
+      <top>45</top>
+      <height>190</height>
+    </window>
+  </login>
+
+</config>

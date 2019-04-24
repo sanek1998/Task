@@ -1,0 +1,5 @@
+﻿enum Lessons
+{
+    VideoLessons,
+    TextLessons
+}
